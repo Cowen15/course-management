@@ -2,9 +2,15 @@
 Using Python, Flask, SQLAlchemy, and PostgreSQL
 
 This project includes:
-* Entity-Relationship Diagram
-* SQL schema
-* Database HTTP requests via Insomnia
+* Entity Relationship Diagram
+* Course Management HTTP Requests via Insomnia
+* Creation of the entire database in SQL
+* Courses Blueprint in Python
+* Departments Blueprint in Python
+* Instructors Blueprint in Python
+* Models.py that ties in all the blueprints for courses, departments, instructors, and students
+* Pg_dump.Sql
+* Students Blueprint in Python
 
 ## API Reference Table
 Students API
